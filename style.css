@@ -1,0 +1,27 @@
+/* Global styles for the document */
+body {
+    background-color: #F5EFE6;
+    color: #4B3832;
+}
+
+/* Header style configuration */
+header {
+    background-color: #8B5E3B;
+    color: #FFFFFF;
+}
+
+/* Navigation style configuration */
+nav {
+    background-color: #D4A373;
+}
+
+/* Main content area style configuration */
+main {
+    background-color: #FFFFFF;
+}
+
+/* Footer style configuration */
+footer {
+    background-color: #8B5E3B;
+    color: #FFFFFF;
+}
